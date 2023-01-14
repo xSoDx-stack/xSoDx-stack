@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Anton
 #### I am a beginner programmer
-![I am a beginner programmer](https://github.com/xSoDx-stack/xSoDx-stack/blob/main/1.png)
+[<img src='https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg' alt='github' height='400'>](https://github.com/xSoDx-stack)
 
-I am doing this project in order to learn Java in practice.
+
+
